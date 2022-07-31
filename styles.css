@@ -1,0 +1,94 @@
+/******************* tag selectors *******************/
+
+body {
+    background-color: #C6DCE4;
+    margin: 0;
+    text-align: center;
+}
+
+table {
+    display: inline-block;
+}
+
+hr {
+    border-color: gray;
+    border-style: dotted none none;
+    border-width: 8px;
+    height: 0px;
+    width: 10%;
+    margin: 60px auto;
+}
+
+th {
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
+    color: #47B5FF;
+}
+
+td {
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
+    color: #413F42;
+}
+
+Li {
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5rem;
+    color: #383838;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin: 40px auto;
+    color: black;
+}
+
+h3 {
+    color: #383838;
+}
+
+
+/******************* class selectors *******************/
+
+.prf {
+    height: 250px;
+    width: 150px;
+}
+
+.footer-link {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #DFF6FF;
+    border: none;
+    border-radius: 15px;
+}
+
+.footer-link:hover {
+    color: #1363DF;
+}
+
+.line {
+    font-size: 3rem;
+}
+
+.style {
+    width: 20%;
+    margin: auto;
+}
+
+.sty {
+    margin-top: 40px;
+}
+
+/******************* id selectors *******************/
